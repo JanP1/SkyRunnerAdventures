@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platforms
+  - Spike
+  - Blocks
+  - Enemy
+  - LifeIncrease
+  - Resistance
+  - SpeedIncrease
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Characters
+  - 
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3582224945
+    locked: 0
+  - name: SkyBackground
+    uniqueID: 2010406739
+    locked: 0
+  - name: Mountains
+    uniqueID: 2266537475
+    locked: 0
+  - name: RockBG
+    uniqueID: 2093601709
+    locked: 0
+  - name: Blocks
+    uniqueID: 3928533181
+    locked: 0
+  - name: Spikes
+    uniqueID: 1685609983
+    locked: 0
+  - name: Platforms
+    uniqueID: 905040867
+    locked: 0
+  - name: Collectibles
+    uniqueID: 1768975909
+    locked: 0
+  - name: Characters
+    uniqueID: 1722324199
+    locked: 0
+  - name: RocksFirst
+    uniqueID: 2911560081
+    locked: 0
+  - name: Platform Designs
+    uniqueID: 3761290591
+    locked: 0
+  - name: PlatformDesignExtras
+    uniqueID: 1684624371
+    locked: 0
+  - name: Ghost
+    uniqueID: 1102825655
+    locked: 0
+  - name: DotBackground
+    uniqueID: 3715512779
+    locked: 0
+  - name: DotWhite
+    uniqueID: 3538023349
+    locked: 0
+  - name: DotColour
+    uniqueID: 947336277
+    locked: 0
